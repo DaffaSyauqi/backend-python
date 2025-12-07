@@ -4,6 +4,7 @@
 
 Selamat datang di **UMKM Tool Prediksi Hasil Makanan Secara Instan**!  
 Project ini dibuat untuk membantu pelaku UMKM makanan dalam memprediksi hasil produksi dengan cepat, otomatis, dan tanpa ribet.
+Project ini juga dibuat agar ringan, sederhana, dan mudah dipakai. Cocok untuk UMKM yang ingin cepat
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Uvicorn](https://img.shields.io/badge/Uvicorn-4B8BBE?style=for-the-badge&logo=python&logoColor=white)](https://www.uvicorn.org/)
@@ -20,8 +21,6 @@ pydantic         # pip install pydantic
 sqlalchemy       # pip install sqlalchemy
 requests         # pip install requests
 python-dotenv    # pip install python-dotenv
-
-
 ```
 
 ## 🖥️ Installation
@@ -52,8 +51,15 @@ http://localhost:8000/
 ```
 
 ## 🚀 Demo
+Berikut video demonstrasi penggunaan
 
 [![Watch the video](https://img.youtube.com/vi/r08caShzkHs/maxresdefault.jpg)](https://www.youtube.com/watch?v=r08caShzkHs)
 
 
+## 👥 Contributors
+Terima kasih untuk semua teman yang sudah membantu!
+
+<a href="https://github.com/isyahaishi-glitch/hackathon-kolosal/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=isyahaishi-glitch/hackathon-kolosal" />
+</a>
 
