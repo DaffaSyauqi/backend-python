@@ -14,6 +14,7 @@ app.add_middleware(
         "https://backend-python-production-4108.up.railway.app",
         # "https://umkm-frontend.vercel.app"
     ], 
+    allow_origin_regex=".*",
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
