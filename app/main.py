@@ -4,7 +4,8 @@ from app.api.predict import router as predict_router
 
 app = FastAPI(
     title="UMKM Production Predictor API",
-    version="1.0.0"
+    version="1.0.0",
+    redirect_slashes=False
 )
 
 app.add_middleware(
