@@ -1,7 +1,8 @@
+<img width="1402" height="581" alt="Image" src="https://github.com/user-attachments/assets/248a48df-41f1-4d70-8890-dfacef03f406" />
+# 🍲 UMKM Tool Prediksi Hasil Makanan Secara Instan 👨‍🍳
 
-# Backend UMKMTOOL
-
-Backend UMKMTOOL adalah proyek backend berbasis Python yang dibangun dengan struktur modular. Di dalamnya terdapat folder utama seperti api, core, models, dan services yang mengatur logika aplikasi, endpoint API, model data, serta pemrosesan bisnis.
+Selamat datang di **UMKM Tool Prediksi Hasil Makanan Secara Instan**!  
+Project ini dibuat untuk membantu pelaku UMKM makanan dalam memprediksi hasil produksi dengan cepat, otomatis, dan tanpa ribet.
 
 
 ## library
@@ -19,16 +20,16 @@ python-dotenv    # pip install python-dotenv
 
 ## Installation
 
-# 1. Clone repository
+### 1. Clone repository
 git clone https://github.com/isyahaishi-glitch/hackathon-kolosal.git
 cd hackathon-kolosal
 
-# 2. Buat virtual environment
+### 2. Buat virtual environment
 python3 -m venv venv
 source venv/bin/activate      # Linux/Mac
 venv\Scripts\activate         # Windows
 
-# 3. Install library yang diperlukan
+### 3. Install library yang diperlukan
 pip install flask uvicorn pydantic sqlalchemy requests python-dotenv
 
 
@@ -36,7 +37,7 @@ pip install flask uvicorn pydantic sqlalchemy requests python-dotenv
 ## Cara Menjalankan
 
 ```bash
-  uvicorn main:app --reload
+uvicorn main:app --reload
 
 ```
 Setelah berjalan, buka di browser atau Postman:
