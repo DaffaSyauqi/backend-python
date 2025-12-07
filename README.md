@@ -46,6 +46,7 @@ http://localhost:8000/
 
 ## Demo
 
-<a href="https://drive.google.com/file/d/1yxgJXfxVo1fqtnpQVn16HuMgfmraPtq0/view?usp=sharing" target="_blank">
+[![Watch the video](https://img.youtube.com/vi/r08caShzkHs/maxresdefault.jpg)](https://www.youtube.com/watch?v=r08caShzkHs)
+
 
 
